@@ -1,0 +1,43 @@
+┌─────────┐    1. Query    ┌──────────────┐   2. Route   ┌────────────────┐
+│ Student │───────────────►│ Orchestrator │─────────────►│ Knowledge Agent │
+└────┬────┘                └──────┬───────┘              └────────┬────────┘
+     │                            │                               │
+     │                            │                               │
+     │                            │                        3. Retrieve & 
+     │                            │                          Synthesize
+     │                            │                               │
+     │                            │                       ┌───────▼────────┐
+     │                            │                       │ Knowledge Base │
+     │                            │                       └───────┬────────┘
+     │                            │                               │
+     │                      4. Evaluate                           │
+     │                    ┌───────▼───────┐      5. Return   ┌────▼─────┐
+     │                    │ Diagnostic    │◄──────Response───┤ Response │
+     │                    │ Agent         │                  └──────────┘
+     │                    └───────┬───────┘
+     │                            │
+     │                     6. Decision Point
+     │                            │
+     │                ┌───────────┴───────────┐
+     │                │                       │
+     │          7a. Sufficient          7b. Insufficient
+     │                │                       │
+     │                │                       │
+┌────▼────────┐  ┌────▼─────┐           ┌────▼─────────┐
+│ Student with│  │ Complete │           │ Ticketing    │
+│ Answer      │◄─┤ Response │           │ Agent        │
+└─────────────┘  └──────────┘           └──────┬───────┘
+                                               │
+                                        8. Create Ticket
+                                               │
+                                       ┌───────▼────────┐
+                                       │ Department     │
+                                       │ Systems        │
+                                       └───────┬────────┘
+                                               │
+                                      9. Status Updates
+                                               │
+                                      ┌────────▼───────┐
+                                      │ Student with   │
+                                      │ Ticket Updates │
+                                      └────────────────┘

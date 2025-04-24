@@ -1,0 +1,50 @@
+[
+  {
+    "category": "library",
+    "title": "Library Collection & Genres",
+    "content": "Total Holdings: Over 4,80,000 printed books and e-books. Genres Covered: The library's diverse collection encompasses: Academic Disciplines: Science, Technology, Engineering, Medicine, Social Sciences, Humanities, and Law. Languages: Marathi, English, Hindi, Sanskrit, and other regional languages. Special Collections: Rare manuscripts, handwritten books, and historical documents. Recent Additions: In 2020, the British Library donated approximately 18,000 books, enriching the library's resources in areas such as social sciences, languages, religion, and technology.",
+    "tags": ["collection", "genres", "holdings", "books", "manuscripts"]
+  },
+  {
+    "category": "library",
+    "title": "Library Access & Membership Rules",
+    "content": "Library Card Issuance: Students must present a valid university identity card to obtain a library membership. The library card is non-transferable and must be presented for borrowing materials. Borrowing Policies: Undergraduate students can borrow up to 2 books for a period of 15 days. Faculty members are allowed to borrow up to 10 books for a period of 6 months. Late returns are subject to fines, typically ₹5 per day. Reading Room Usage: Students must sign the entry register and maintain silence within the reading areas. Personal belongings, including bags and food items, are not permitted inside the reading rooms. Lost or Damaged Materials: In case of loss or damage, users are required to replace the item or pay twice the prevailing cost of the book.",
+    "tags": ["membership", "borrowing", "rules", "reading room", "fines"]
+  },
+  {
+    "category": "library",
+    "title": "Visual Glimpse of Jayakar Library",
+    "content": "The Jayakar Library has impressive infrastructure with iconic architecture. It has spacious and well-lit reading areas accommodating numerous students, and organized shelves housing the extensive collection of books and journals. For a virtual tour or more images, you can visit the Jayakar Library's official website.",
+    "tags": ["architecture", "reading hall", "book stacks", "infrastructure"]
+  },
+  {
+    "category": "library",
+    "title": "Jayakar Library (Central Library)",
+    "content": "The Jayakar Library, named after the university's first vice-chancellor, Dr. M.R. Jayakar, serves as the central library of SPPU. It offers a vast collection of resources, including: Books and E-books, Audio-visual academic content, Rare manuscripts, specimen copies, maps, microfilms, video cassettes, and CDs, Study materials for competitive exams. The library is computerized and has a seating capacity of 400 students. It also maintains a blog to keep students updated on library events and resources.",
+    "tags": ["library", "jayakar", "central library", "resources", "books"]
+  },
+  {
+    "category": "library",
+    "title": "Departmental Libraries",
+    "content": "In addition to the central library, various departments have their own specialized libraries. School of Education Library: Houses over 10,226 book titles and subscribes to more than 10 national and international journals. It has a seating capacity for 60 users. Department of Technology Library: Equipped with computers, internet connectivity, and photocopying services. It holds approximately 2,000 textbooks and reference books in engineering, life sciences, and clinical research, along with national and international journals. Department of Geography Library: Contains over 400 textbooks, encyclopedias, atlases, and reference books in geography and geoinformatics.",
+    "tags": ["departmental libraries", "education library", "technology library", "geography library"]
+  },
+  {
+    "category": "library",
+    "title": "Library Services and Facilities",
+    "content": "SPPU libraries offer a range of services to facilitate learning and research: Computerized Issue-Return: Streamlined borrowing and returning process. Periodical Service: Access to various magazines and journals. E-Journals and E-Book Service: Availability of electronic resources through platforms like INFLIBNET N-LIST. Open Access: Free access to research materials and scholarly resources. Online Public Access Catalogue (OPAC): Searchable database for library collections. Reference Service: Assistance in locating and using library resources. Current Awareness Service: Updates on new acquisitions and relevant information. Bibliographic Service: Provision of bibliographies on specific topics. Newspaper Clipping Service: Compilation of important news articles. User Orientation: Programs to familiarize users with library services. Access to Previous Question Papers and Syllabi: Resources for exam preparation.",
+    "tags": ["library services", "opac", "e-journals", "reference service"]
+  },
+  {
+    "category": "library",
+    "title": "Preservation of Ancient Manuscripts",
+    "content": "SPPU has initiated a project to digitize and catalog ancient manuscripts housed in the Department of Sanskrit and Prakrit Languages. In collaboration with the Dharohar Institute, the university aims to make these manuscripts accessible to scholars and researchers through computerized descriptive cataloging.",
+    "tags": ["manuscripts", "digitization", "sanskrit", "preservation"]
+  },
+  {
+    "category": "library",
+    "title": "Library Initiatives",
+    "content": "To promote reading habits and effective utilization of library resources, SPPU libraries have introduced initiatives like the Best Library User Award, recognizing students who make optimal use of library facilities.",
+    "tags": ["initiatives", "awards", "reading"]
+  }
+]
